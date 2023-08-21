@@ -22,4 +22,34 @@
         <tag>你好</tag>
       </tags>
   </entry>
+  <entry>
+    <title>如何搭建ChatGPT</title>
+    <url>/2023/08/21/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAChatGPT/</url>
+    <content><![CDATA[<h1>准备工作</h1>
+<p>Github(<a href="https://github.com">https://github.com</a>)</p>
+<p>CloudFlare(<a href="https://dash.cloudflare.com">https://dash.cloudflare.com</a>) (可选)</p>
+<p>discord(<a href="https://discord.com/">https://discord.com/</a>)</p>
+<h2 id="服务器二选一">服务器二选一</h2>
+<p>vercel(<a href="https://vercel.com">https://vercel.com</a>) <strong>(⚠注意⚠：vercel域名服务器已经被污染，你必须拥有一个域名)</strong></p>
+<p>netlify(<a href="https://netlify.com">https://netlify.com</a>)</p>
+<h1>开始搭建</h1>
+<ol>
+<li>
+<p>登录Github<br>
+<img src="image.png" alt="Alt text"></p>
+</li>
+<li>
+<p>找到ChatGPT-Next-Web仓库，并Fork仓库<br>
+<img src="https://gitee.com/mcheping520/graphic-bed/raw/master/image/image-1.png" alt="Alt text"><br>
+<img src="https://gitee.com/mcheping520/graphic-bed/raw/master/image/image-2.png" alt="Alt text"></p>
+</li>
+<li>
+<p>使用github账号登录netlify (vercel可能需要手机号验证，所以我没有多余的手机号😭)</p>
+</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>ChatGPT</tag>
+      </tags>
+  </entry>
 </search>
