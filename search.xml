@@ -23,33 +23,59 @@
       </tags>
   </entry>
   <entry>
-    <title>如何搭建ChatGPT</title>
-    <url>/2023/08/21/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAChatGPT/</url>
+    <title>如何用自定义NPC做一个战斗型机器人</title>
+    <url>/2023/08/22/%E5%A6%82%E4%BD%95%E7%94%A8%E8%87%AA%E5%AE%9A%E4%B9%89NPC%E5%81%9A%E4%B8%80%E4%B8%AA%E6%88%98%E6%96%97%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA/</url>
     <content><![CDATA[<h1>准备工作</h1>
-<p>Github(<a href="https://github.com">https://github.com</a>)</p>
-<p>CloudFlare(<a href="https://dash.cloudflare.com">https://dash.cloudflare.com</a>) (可选)</p>
-<p>discord(<a href="https://discord.com/">https://discord.com/</a>)</p>
-<h2 id="服务器二选一">服务器二选一</h2>
-<p>vercel(<a href="https://vercel.com">https://vercel.com</a>) <strong>(⚠注意⚠：vercel域名服务器已经被污染，你必须拥有一个域名)</strong></p>
-<p>netlify(<a href="https://netlify.com">https://netlify.com</a>)</p>
-<h1>开始搭建</h1>
-<ol>
+<ul>
 <li>
-<p>登录Github<br>
-<img src="image.png" alt="Alt text"></p>
+<p><a href="https://azul.com">Java</a> (我推荐zulu-java)</p>
 </li>
 <li>
-<p>找到ChatGPT-Next-Web仓库，并Fork仓库<br>
-<img src="https://gitee.com/mcheping520/graphic-bed/raw/master/image/image-1.png" alt="Alt text"><br>
-<img src="https://gitee.com/mcheping520/graphic-bed/raw/master/image/image-2.png" alt="Alt text"></p>
+<p><a href="https://hmcl.huangyuhui.net">HMCL</a>或者<a href="https://afdian.net/p/0164034c016c11ebafcb52540025c377">PCL</a></p>
 </li>
 <li>
-<p>使用github账号登录netlify (vercel可能需要手机号验证，所以我没有多余的手机号😭)</p>
+<p><a href="https://mcheping.lanzouw.com/ip678162j5pe">mod.zip</a>👈点我下载</p>
+<ul>
+<li>curios forge =&gt; 前置模组</li>
+<li>CustomNPCs =&gt; 自定义NPC</li>
+<li>jei =&gt; jei物品管理器（可选，推荐）</li>
+<li>obfuscate =&gt; 前置模组</li>
+<li>Timeless+and+Classics+Guns =&gt; 永恒枪械</li>
+<li>XaerosWorldMap =&gt; Xaero世界地图（可选，推荐）</li>
+<li>Xaeros_Minimap =&gt; Xaero小地图（可选，推荐）</li>
+</ul>
 </li>
-</ol>
+</ul>
+<h1>开始教程</h1>
+<h2 id="安装java">安装Java</h2>
+<p>下载java<br>
+<img src="https://s2.loli.net/2023/08/22/MH1thT5fdlB3bV8.png" alt="image.png"></p>
+<p><img src="https://s2.loli.net/2023/08/22/vX8cGf2dVbh9kYZ.png" alt="image.png"></p>
+<h2 id="打开启动器-hmcl为演示">打开启动器(HMCL为演示)</h2>
+<p>版本选择1.16.5，并且安装Forge<br>
+<img src="https://s2.loli.net/2023/08/22/VsylDE3NAhufwBT.png" alt="image.png"></p>
+<h2 id="安装mod-这不用我多说了吧">安装mod (这不用我多说了吧…)</h2>
+<h2 id="启动游戏-创建单人存档">启动游戏，创建单人存档</h2>
+<h2 id="打开物品栏找到npc魔杖">打开物品栏找到<strong>npc魔杖</strong></h2>
+<p><img src="https://s2.loli.net/2023/08/22/p7AlUt4jV926fuy.png" alt="image.png"></p>
+<h2 id="创建npc-拿起npc魔杖往地面鼠标右键就会有新的npc">创建NPC，拿起npc魔杖往地面鼠标右键就会有新的NPC</h2>
+<p><img src="https://s2.loli.net/2023/08/22/3CjGhRIkHKvyP5e.png" alt="image.png"><br>
+<img src="https://s2.loli.net/2023/08/22/JB9CLoKUxrnjFDP.png" alt="image.png"></p>
+<h3 id="每次新建一个npc都会有动画的眼睛-如果你不想有动画眼睛-在外观界面点击编辑按钮-左侧选择eyes-类型选择无就可以了">每次新建一个NPC都会有动画的眼睛，如果你不想有动画眼睛，在外观界面点击<strong>编辑</strong>按钮，左侧选择<strong>Eyes</strong>，类型选择<strong>无</strong>就可以了</h3>
+<p><img src="https://s2.loli.net/2023/08/22/WmYQyHqh1B8ZrK7.png" alt="image.png"></p>
+<h2 id="在属性设置-远程选项">在<strong>属性设置</strong> =&gt; <strong>远程选项</strong></h2>
+<p><img src="https://s2.loli.net/2023/08/22/uaPQqMDz8NcBRW2.png" alt="image.png"></p>
+<h2 id="ai-移动-编辑"><strong>AI</strong> =&gt; <strong>移动【编辑】</strong></h2>
+<p><img src="https://s2.loli.net/2023/08/22/eF3Ajm2MisQ15Ea.png" alt="image.png"></p>
+<h2 id="物品栏"><strong>物品栏</strong></h2>
+<p><img src="https://s2.loli.net/2023/08/22/T732sFMjbRIaWrp.png" alt="image.png"></p>
+<h2 id="高级设置-下面一栏选择守卫"><strong>高级设置</strong> =&gt; 下面一栏选择<strong>守卫</strong></h2>
+<p><img src="https://s2.loli.net/2023/08/22/tJ9VODENAbloaFI.png" alt="image.png"></p>
+<h1>最终效果</h1>
+<p><img src="https://s2.loli.net/2023/08/22/u6qvijrHaLkbzdW.png" alt="image.png"></p>
 ]]></content>
       <tags>
-        <tag>ChatGPT</tag>
+        <tag>MC</tag>
       </tags>
   </entry>
 </search>
