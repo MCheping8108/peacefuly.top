@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>MC存档编辑器，适用于恢复、迁移等</title>
+    <url>/2023/08/26/MC%E5%AD%98%E6%A1%A3%E7%BC%96%E8%BE%91%E5%99%A8%EF%BC%8C%E9%80%82%E7%94%A8%E4%BA%8E%E6%81%A2%E5%A4%8D%E3%80%81%E8%BF%81%E7%A7%BB%E7%AD%89/</url>
+    <content><![CDATA[<h1><a href="https://www.amuletmc.com/">Amulet</a></h1>
+<p>是一个由python开发的MC存档编辑器、用途范围倾向于存档复制、建筑迁移、恢复存档某个区块等</p>
+<p>利用python的开发，它不仅限于Windows，它还能支持<strong>MacOS</strong>、<strong>Linux</strong>，而且是个开源软件，受到了许多Minecraft爱好者们的青睐。</p>
+<p>Github地址：<a href="https://github.com/Amulet-Team/Amulet-Map-Editor">https://github.com/Amulet-Team/Amulet-Map-Editor</a></p>
+<h1>它的主页面</h1>
+<p><img src="https://mcheping520.gitee.io/graphic-bed/image/n2HLR56WZhvOA1e.png" alt="Snipaste_2023-08-26_16-42-04.png"></p>
+<h1>教程</h1>
+<p>它的上手难度不是很难，因为有国内的开源爱好者都在为Amulet开源软件做出贡献</p>
+<iframe src="//player.bilibili.com/player.html?aid=723993478&bvid=BV1YS4y1C7yU&cid=504671761&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe> 
+]]></content>
+      <categories>
+        <category>Minecraft</category>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>MC</tag>
+        <tag>软件推荐</tag>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2023/08/18/hello-world/</url>
     <content><![CDATA[<p>欢迎来到 <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -49,30 +72,29 @@
 <h1>开始教程</h1>
 <h2 id="安装java">安装Java</h2>
 <p>下载java<br>
-<img src="https://s2.loli.net/2023/08/22/MH1thT5fdlB3bV8.png" alt="image.png"></p>
-<p><img src="https://s2.loli.net/2023/08/22/vX8cGf2dVbh9kYZ.png" alt="image.png"></p>
+<img src="https://mcheping520.gitee.io/graphic-bed/image/MH1thT5fdlB3bV8.png" alt="image.png"></p>
 <h2 id="打开启动器-hmcl为演示">打开启动器(HMCL为演示)</h2>
 <p>版本选择1.16.5，并且安装Forge<br>
-<img src="https://s2.loli.net/2023/08/22/VsylDE3NAhufwBT.png" alt="image.png"></p>
+<img src="https://mcheping520.gitee.io/graphic-bed/image/VsylDE3NAhufwBT.png" alt="image.png"></p>
 <h2 id="安装mod-这不用我多说了吧">安装mod (这不用我多说了吧…)</h2>
 <h2 id="启动游戏-创建单人存档">启动游戏，创建单人存档</h2>
 <h2 id="打开物品栏找到npc魔杖">打开物品栏找到<strong>npc魔杖</strong></h2>
-<p><img src="https://s2.loli.net/2023/08/22/p7AlUt4jV926fuy.png" alt="image.png"></p>
+<p><img src="https://mcheping520.gitee.io/graphic-bed/image/p7AlUt4jV926fuy.png" alt="image.png"></p>
 <h2 id="创建npc-拿起npc魔杖往地面鼠标右键就会有新的npc">创建NPC，拿起npc魔杖往地面鼠标右键就会有新的NPC</h2>
-<p><img src="https://s2.loli.net/2023/08/22/3CjGhRIkHKvyP5e.png" alt="image.png"><br>
-<img src="https://s2.loli.net/2023/08/22/JB9CLoKUxrnjFDP.png" alt="image.png"></p>
+<p><img src="https://mcheping520.gitee.io/graphic-bed/image/3CjGhRIkHKvyP5e.png" alt="image.png"><br>
+<img src="https://mcheping520.gitee.io/graphic-bed/image/JB9CLoKUxrnjFDP.png" alt="image.png"></p>
 <h3 id="每次新建一个npc都会有动画的眼睛-如果你不想有动画眼睛-在外观界面点击编辑按钮-左侧选择eyes-类型选择无就可以了">每次新建一个NPC都会有动画的眼睛，如果你不想有动画眼睛，在外观界面点击<strong>编辑</strong>按钮，左侧选择<strong>Eyes</strong>，类型选择<strong>无</strong>就可以了</h3>
-<p><img src="https://s2.loli.net/2023/08/22/WmYQyHqh1B8ZrK7.png" alt="image.png"></p>
+<p><img src="https://mcheping520.gitee.io/graphic-bed/image/WmYQyHqh1B8ZrK7.png" alt="image.png"></p>
 <h2 id="在属性设置-远程选项">在<strong>属性设置</strong> =&gt; <strong>远程选项</strong></h2>
-<p><img src="https://s2.loli.net/2023/08/22/uaPQqMDz8NcBRW2.png" alt="image.png"></p>
+<p><img src="https://mcheping520.gitee.io/graphic-bed/image/uaPQqMDz8NcBRW2.png" alt="image.png"></p>
 <h2 id="ai-移动-编辑"><strong>AI</strong> =&gt; <strong>移动【编辑】</strong></h2>
 <p><img src="https://s2.loli.net/2023/08/22/eF3Ajm2MisQ15Ea.png" alt="image.png"></p>
 <h2 id="物品栏"><strong>物品栏</strong></h2>
-<p><img src="https://s2.loli.net/2023/08/22/T732sFMjbRIaWrp.png" alt="image.png"></p>
+<p><img src="https://mcheping520.gitee.io/graphic-bed/image/T732sFMjbRIaWrp.png" alt="image.png"></p>
 <h2 id="高级设置-下面一栏选择守卫"><strong>高级设置</strong> =&gt; 下面一栏选择<strong>守卫</strong></h2>
-<p><img src="https://s2.loli.net/2023/08/22/tJ9VODENAbloaFI.png" alt="image.png"></p>
+<p><img src="https://mcheping520.gitee.io/graphic-bed/image/tJ9VODENAbloaFI.png" alt="image.png"></p>
 <h1>最终效果</h1>
-<p><img src="https://s2.loli.net/2023/08/22/u6qvijrHaLkbzdW.png" alt="image.png"></p>
+<p><img src="https://mcheping520.gitee.io/graphic-bed/image/u6qvijrHaLkbzdW.png" alt="image.png"></p>
 ]]></content>
       <categories>
         <category>技术</category>
@@ -81,29 +103,6 @@
       <tags>
         <tag>MC</tag>
         <tag>自定义NPC</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>MC存档编辑器，适用于恢复、迁移等</title>
-    <url>/2023/08/26/MC%E5%AD%98%E6%A1%A3%E7%BC%96%E8%BE%91%E5%99%A8%EF%BC%8C%E9%80%82%E7%94%A8%E4%BA%8E%E6%81%A2%E5%A4%8D%E3%80%81%E8%BF%81%E7%A7%BB%E7%AD%89/</url>
-    <content><![CDATA[<h1><a href="https://www.amuletmc.com/">Amulet</a></h1>
-<p>是一个由python开发的MC存档编辑器、用途范围倾向于存档复制、建筑迁移、恢复存档某个区块等</p>
-<p>利用python的开发，它不仅限于Windows，它还能支持<strong>MacOS</strong>、<strong>Linux</strong>，而且是个开源软件，受到了许多Minecraft爱好者们的青睐。</p>
-<p>Github地址：<a href="https://github.com/Amulet-Team/Amulet-Map-Editor">https://github.com/Amulet-Team/Amulet-Map-Editor</a></p>
-<h1>它的主页面</h1>
-<p><img src="https://s2.loli.net/2023/08/26/n2HLR56WZhvOA1e.png" alt="Snipaste_2023-08-26_16-42-04.png"></p>
-<h1>教程</h1>
-<p>它的上手难度不是很难，因为有国内的开源爱好者都在为Amulet开源软件做出贡献</p>
-<iframe src="//player.bilibili.com/player.html?aid=723993478&bvid=BV1YS4y1C7yU&cid=504671761&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe> 
-]]></content>
-      <categories>
-        <category>Minecraft</category>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>MC</tag>
-        <tag>软件推荐</tag>
-        <tag>技术</tag>
       </tags>
   </entry>
 </search>
