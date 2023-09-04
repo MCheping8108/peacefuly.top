@@ -46,6 +46,22 @@
       </tags>
   </entry>
   <entry>
+    <title>search文档</title>
+    <url>/2023/09/04/search%E6%96%87%E6%A1%A3/</url>
+    <content><![CDATA[<h1>使用说明</h1>
+<p>目前已支持大部分知名的搜索引擎</p>
+<p><code> gg 搜索内容</code> 跳转到Google</p>
+<p><code> bd 搜索内容</code> 跳转到百度</p>
+<p><code> bing 搜索内容</code> 跳转到bing</p>
+<p><code> gt 搜索内容</code> 跳转到GitHub</p>
+<p><code> yd 搜索内容</code> 跳转到Yandex</p>
+]]></content>
+      <tags>
+        <tag>技术</tag>
+        <tag>编程项目</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何用自定义NPC做一个战斗型机器人</title>
     <url>/2023/08/22/%E5%A6%82%E4%BD%95%E7%94%A8%E8%87%AA%E5%AE%9A%E4%B9%89NPC%E5%81%9A%E4%B8%80%E4%B8%AA%E6%88%98%E6%96%97%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA/</url>
     <content><![CDATA[<h1>准备工作</h1>

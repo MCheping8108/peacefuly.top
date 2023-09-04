@@ -1,1 +1,1 @@
-var posts=["2023/08/26/MC存档编辑器，适用于恢复、迁移等/","2023/08/18/hello-world/","2023/08/22/如何用自定义NPC做一个战斗型机器人/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/08/26/MC存档编辑器，适用于恢复、迁移等/","2023/08/18/hello-world/","2023/09/04/search文档/","2023/08/22/如何用自定义NPC做一个战斗型机器人/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
